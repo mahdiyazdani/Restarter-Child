@@ -1,7 +1,8 @@
 # Restarter-Child
-A blank Restarter child theme for your styling.
 
 ![Restarter WordPress Child Theme](screenshot.jpg)
+
+A blank Restarter child theme for your styling.
 
 [Offical theme post page](https://wordpress.org/themes/restarter/)
 
